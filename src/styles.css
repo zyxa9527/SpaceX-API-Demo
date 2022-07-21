@@ -1,0 +1,6 @@
+.backgrounds {
+  margin: 0;
+  background-image: linear-gradient(147deg, #000000 0%, #04619f 74%);
+  color: aliceblue;
+  min-height: 100vh;
+}
