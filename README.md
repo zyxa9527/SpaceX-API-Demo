@@ -1,4 +1,4 @@
-# SpaceX-API-Demo
+# SpaceX-API-demo
  
 build a SpaceX-API project with React.js , GraphQL and Apollo
 
