@@ -1,8 +1,8 @@
 # SpaceX-API-Demo
  
-build a spacex api project with react.js , graphql and apollo
+build a SpaceX-API project with React.js , GraphQL and Apollo
 
-API： https://api.spacex.land/graphql/
+SpaceX-API： https://api.spacex.land/graphql/
 
 npm install 
 
