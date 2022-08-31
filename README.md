@@ -6,6 +6,7 @@
 ![image](https://user-images.githubusercontent.com/60773919/181186328-826823d5-a1d7-44e4-9337-212075938051.png)
 
 SpaceX-API： [https://api.spacex.land/graphql/](https://github.com/r-spacex/SpaceX-API)
+更新:目前api文件有問題 https://api.spacex.land/graphql/
 
 ## Project setup
 ```
