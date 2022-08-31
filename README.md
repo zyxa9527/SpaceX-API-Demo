@@ -1,7 +1,7 @@
 # SpaceX-API-demo
 以GraphQL查詢,串接第三方 API-以SpaceX API與YouTube API實現資料
 
-更新:目前api文件有問題 [https://api.spacex.land/graphql/](https://api.spacex.land/graphql/)
+更新:目前API有問題 [https://api.spacex.land/graphql/](https://api.spacex.land/graphql/)
 要等待他們將api修好才能運作
 
 ## demo : https://591sht.csb.app/
