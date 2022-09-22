@@ -1,5 +1,5 @@
 # SpaceX-API-Demo
-以 GraphQ L查詢,串接第三方 API- 以 SpaceX API 與 YouTube API 實現資料
+串接 SpaceX API 資料, 並以 GraphQL 查詢來呈現
 
 - 以 GraphQL 查詢, 串接 SpaceX API,解析回傳的資料
 - 使用 Apollo Client 建構這個API項目
