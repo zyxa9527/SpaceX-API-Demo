@@ -1,12 +1,12 @@
 # SpaceX-API-Demo
-以GraphQL查詢,串接第三方 API-以SpaceX API與YouTube API實現資料
+以 GraphQ L查詢,串接第三方 API- 以 SpaceX API 與 YouTube API 實現資料
 
-- 以GraphQL查詢, 串接SpaceX API,解析回傳的資料
-- 使用Apollo Client建構這個API項目
-- 串接YouTube API以內嵌SpaceX所提供的YouTube影片
+- 以 GraphQL 查詢, 串接 SpaceX API,解析回傳的資料
+- 使用 Apollo Client 建構這個API項目
+- 串接 YouTube API以 內嵌 SpaceX 所提供的 YouTube 影片
 
-更新:目前API有問題 [https://api.spacex.land/graphql/](https://api.spacex.land/graphql/)
-要等待他們將API修好才能運作
+更新:目前 AP I有問題 [https://api.spacex.land/graphql/](https://api.spacex.land/graphql/)
+要等待他們將 API 修好才能運作
 
 ## Demo : https://591sht.csb.app/
 
